@@ -12,6 +12,17 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ktor_happy_day" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ktor_happy_day" />
+            <option value="$PROJECT_DIR$/ktor_happy_day/data" />
+            <option value="$PROJECT_DIR$/ktor_happy_day/sql" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

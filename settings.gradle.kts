@@ -1,3 +1,2 @@
 
-rootProject.name = "sql"
-
+rootProject.name = "sql_project"
